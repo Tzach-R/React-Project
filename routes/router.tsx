@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import Register from "./Register.tsx";
 import Login from "./Login.tsx";
 import Cards from "./Cards.tsx";
