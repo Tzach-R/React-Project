@@ -1,0 +1,22 @@
+.site-navbar {
+  font-size: 28px;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: space-between;
+}
+.site-navbar .nav-left {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.site-navbar .nav-right {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.site-navbar .brand {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}/*# sourceMappingURL=Footer.css.map */
